@@ -16,7 +16,7 @@
     - Scrum
 
 ## 2. UML
-- UML: Unified Modeling Language
+- UML : Unified Modeling Language
     - Use Case Diagram
     - Class Diagram
     - Sequence Diagram
