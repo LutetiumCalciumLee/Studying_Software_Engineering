@@ -1,30 +1,82 @@
 # Software Engineering
 
-## 1. Software Engineering and Development Process
-- Definition of Software
-- Characteristics of Software
-- Difficulties in Software Development
-- Software Engineering
-- Software Development Process
-- Software Development Models
-    - Ad-hoc Model
-    - Linear Sequential Model
-    - Evolutionary Process Model
-    - Incremental Development Model
-    - Unified Process Model
-    - Agile Process Model
-    - Scrum
+## 1. Development Process
 
-## 2. UML
-- UML : Unified Modeling Language
-    - Use Case Diagram
-    - Class Diagram
-    - Sequence Diagram
-    - Communication Diagram
-    - Activity Diagram
-    - State Diagram
-    - Component Diagram
-    - Deployment Diagram
+### Program vs Software Definition
+- **Program**: Programming source code
+- **Software**: All outputs generated during development process (programs, data structures, database structures, test results, documents, user manuals)
+
+### Software vs Manufacturing
+- **Manufacturing**: Producing products according to fixed patterns
+- **Development**: Creating new things or utilizing existing technology to achieve goals
+- **Software characteristics**: Functional improvements, new features, adaptation to environmental changes (OS, etc.)
+
+### Software Development Complexity
+- **Small vs Large Scale**: Tools, process complexity, team composition, project duration
+- **Software engineering**: Applying engineering principles to software development
+- **Engineering**: Solving problems using scientific knowledge within limited time and cost
+- **SDLC**: Software Development Life Cycle
+
+### Software Development Process
+A series of activities to implement user requirements into software systems including procedures, methods, tools, and developers.
+
+## 2. Software Development Models
+
+### Build-and-Fix Model
+- **Description**: Development without formal guidelines or processes
+- **Characteristics**: Simple function organization and development without requirements analysis or design
+- **Advantages**: Suitable for single developer, short-term projects
+- **Disadvantages**:
+  - Lack of documented outputs
+  - Difficult maintenance
+  - Continuous modification possibilities
+
+### Linear Sequential Model (Waterfall)
+- **Description**: Sequential development following standardized processes
+- **Characteristics**: Top-down approach, non-parallel, documented results required
+- **Procedure**: Planning → Analysis → Design → Implementation → Testing → Maintenance
+- **Advantages**: Easy management, systematic documentation, suitable for stable requirements
+- **Disadvantages**:
+  - Each phase must be completed before next
+  - Difficult to verify requirements until final stage
+  - High cost for modifications
+
+### Evolutionary Process Model
+- **Prototype Model**:
+  - Creates initial prototype, repeats modification process
+  - Suitable for unclear or changing requirements
+  - Advantages: Visual results, progressive requirements definition
+  - Disadvantages: Difficult cost estimation, prototype vs final product confusion
+
+- **Spiral Model**:
+  - Adds risk analysis to prototype model
+  - Process: Requirements analysis → Risk analysis → Prototype → User evaluation
+  - Advantages: Risk consideration, high user satisfaction
+  - Disadvantages: Long development time, requires risk management expertise
+
+### Phased Development Model
+- **Incremental Development**: Developing important parts first, gradually expanding scope
+- **Iterative Development**: Developing entire system first, then improving each subsystem
+
+### Unified Process Model
+- **Description**: Iterative development for large, complex software
+- **Phases**: Inception → Elaboration → Construction → Transition
+- **Characteristics**: Flexible response to changing requirements, UML-based
+
+### Agile Process Model
+- **Philosophy**: Rapid response to customer needs, solving problems as they arise
+- **Agile Values** (2001 Agile Manifesto):
+  - Individuals and interactions over processes and tools
+  - Working software over comprehensive documentation
+  - Customer collaboration over contract negotiation
+  - Responding to change over following a plan
+
+### Scrum Framework
+- **Components**: Product backlog, Sprint planning, Daily scrum, Sprint review, Sprint retrospective
+- **Roles**: Product owner, Scrum master, Development team
+- **Artifacts**: Product backlog, Sprint backlog, Burndown chart
+- **Advantages**: Regular deliverables, daily coordination, simple methodology
+- **Disadvantages**: Requires functional product per sprint, potential meeting overhead
 
 ## 3. Planning
 - Understanding Planning
