@@ -152,20 +152,37 @@ Visual representation of system interactions, structure, and component relations
 - **Risk Management Process**: Risk identification → Risk analysis → Risk planning → Risk monitoring
 - **Risk Assessment**: Probability and impact analysis
 - **Risk Response**: Avoidance, mitigation, transfer, acceptance
-## 5. Design
-- Design
-- Design Principles
-    - Divide and Conquer
-    - Abstraction
-    - Encapsulation
-    - Information Hiding
-    - Inheritance
-    - Polymorphism
-- Modularity
-- Module Evaluation Criteria
-    - Cohesion
-    - Coupling
-- User Interface Design
+
+## 5. Requirements Analysis
+
+### Requirements Definition
+- **Functional Requirements**: Functions that users require from the system
+- **Non-functional Requirements**: Performance, quality, constraints
+  - Quality attributes: Reliability, availability, performance, security, usability
+
+### Requirements Analysis Process
+1. Data collection
+2. Requirements elicitation
+3. Documentation
+4. Verification
+
+### Requirements Representation
+- **Natural Language**: Easy to understand but may be ambiguous
+- **Formal Methods**: Mathematical notation, precise but complex
+- **Modeling**: UML diagrams, structured analysis tools
+
+### Structured Analysis Tools
+- **Data Flow Diagram (DFD)**: Shows data processing flow
+- **Data Dictionary**: Detailed description of data in DFD
+- **Process Specification**: Algorithm-based detailed description
+
+### Object-Oriented Analysis
+- **Use Case Modeling**: Capturing user requirements
+- **Use Case Specification**: Detailed documentation including preconditions, postconditions, event flows
+
+### Requirements Documentation
+- **Requirements Specification**: Contract between users and developers
+- **Quality Attributes**: Completeness, consistency, clarity, traceability, modifiability, verifiability
 
 ## 6. Architecture Design and Class Design
 - Architecture Design
