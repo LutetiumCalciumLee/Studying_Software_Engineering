@@ -78,37 +78,80 @@ A series of activities to implement user requirements into software systems incl
 - **Advantages**: Regular deliverables, daily coordination, simple methodology
 - **Disadvantages**: Requires functional product per sprint, potential meeting overhead
 
-## 3. Planning
-- Understanding Planning
-- Problem Definition
-- Feasibility Analysis
-- Estimation of Development Cost
-- Development Cost Estimation Techniques
-    - Top-down Estimation Technique
-    - Bottom-up Estimation Technique
-    - Mathematical Estimation Technique
-    - Simple Function Point Method
-- Schedule Planning
-- Starting Schedule Planning
-- Schedule Planning Techniques
-    - Network Chart
-    - Creating Schedules Using Gantt Chart
-- Risk Analysis
-    - Risk Management Procedures
+## 3. UML (Unified Modeling Language)
 
-## 4. Requirements Analysis
-- Requirements
-- Requirements Analysis
-- Requirements Analysis Procedure
-- Types of Requirements Analysis
-- Representation of Requirements
-- Modeling
-- Structural Representation Tools
-- Representation Tools for Information Engineering Methods
-- Representation Tools for Object-Oriented Methods
-- Requirements Documentation
-    - Requirements Specification Techniques and Verification
+### UML Diagrams
+Visual representation of system interactions, structure, and component relationships.
 
+### Use Case Diagram
+- **Actor**: Person or system that interacts with the system
+- **Use Case**: Functions that users want to use through the system
+- **Relationships**: Association, generalization, include, extend
+
+### Class Diagram
+- **Components**: Class name, attributes, methods, visibility
+- **Relationships**: Association, generalization, aggregation, composition, dependency, realization
+
+### Sequence Diagram
+- **Purpose**: Shows object interactions based on message sequence during execution
+- **Components**: Objects, lifelines, messages (synchronous, asynchronous, recursive, reply)
+
+### Activity Diagram
+- **Purpose**: Represents behavior and activities during execution
+- **Components**: Start/end states, activities, transitions, decision points, synchronization bars
+
+### State Diagram
+- **Purpose**: Represents state changes of objects
+- **Components**: States, transitions, events
+
+### Component Diagram
+- **Purpose**: Shows relationships between executable modules
+- **Components**: Components, interfaces, dependencies
+
+### Deployment Diagram
+- **Purpose**: Defines hardware resources and node relationships
+- **Components**: Nodes, hardware allocation
+
+## 4. Planning
+
+### Project Planning Considerations
+- Problem definition
+- Feasibility analysis
+- Software development cost estimation
+- Schedule planning
+- Risk analysis
+
+### Feasibility Analysis
+- **Economic Feasibility**: Cost-benefit analysis, marketability
+- **Technical Feasibility**: Technology availability assessment
+- **Legal Feasibility**: License verification, intellectual property
+
+### Cost Estimation Methods
+- **Top-down Methods**:
+  - Expert judgment
+  - Delphi technique
+- **Bottom-up Methods**:
+  - LOC (Lines of Code) method
+  - Function point analysis
+- **Mathematical Methods**:
+  - COCOMO (Constructive Cost Model)
+  - COCOMO II
+
+### Function Point Analysis
+- **Purpose**: Quantitative measurement of software size based on functional requirements
+- **Components**: Internal logical files, external interface files, external inputs/outputs/inquiries
+- **Advantages**: User requirement-based, objective measurement, applicable to all development phases
+- **Disadvantages**: Requires high analysis skills, needs function point experts
+
+### Schedule Planning
+- **WBS (Work Breakdown Structure)**: Dividing project into manageable work packages
+- **Network Charts**: PERT/CPM for project scheduling
+- **Gantt Charts**: Bar-type scheduling tool
+
+### Risk Analysis
+- **Risk Management Process**: Risk identification → Risk analysis → Risk planning → Risk monitoring
+- **Risk Assessment**: Probability and impact analysis
+- **Risk Response**: Avoidance, mitigation, transfer, acceptance
 ## 5. Design
 - Design
 - Design Principles
