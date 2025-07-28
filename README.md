@@ -1,5 +1,6 @@
 # Software Engineering
 
+
 ## 1. Development Process
 
 ### Program vs Software Definition
@@ -19,6 +20,7 @@
 
 ### Software Development Process
 A series of activities to implement user requirements into software systems including procedures, methods, tools, and developers.
+
 
 ## 2. Software Development Models
 
@@ -78,6 +80,7 @@ A series of activities to implement user requirements into software systems incl
 - **Advantages**: Regular deliverables, daily coordination, simple methodology
 - **Disadvantages**: Requires functional product per sprint, potential meeting overhead
 
+
 ## 3. UML (Unified Modeling Language)
 
 ### UML Diagrams
@@ -111,6 +114,7 @@ Visual representation of system interactions, structure, and component relations
 ### Deployment Diagram
 - **Purpose**: Defines hardware resources and node relationships
 - **Components**: Nodes, hardware allocation
+
 
 ## 4. Planning
 
@@ -153,6 +157,7 @@ Visual representation of system interactions, structure, and component relations
 - **Risk Assessment**: Probability and impact analysis
 - **Risk Response**: Avoidance, mitigation, transfer, acceptance
 
+
 ## 5. Requirements Analysis
 
 ### Requirements Definition
@@ -184,42 +189,76 @@ Visual representation of system interactions, structure, and component relations
 - **Requirements Specification**: Contract between users and developers
 - **Quality Attributes**: Completeness, consistency, clarity, traceability, modifiability, verifiability
 
+
 ## 6. Architecture Design and Class Design
-- Architecture Design
-- Architecture Quality Attributes
-    - SAiP
-- 4+1 View of Architecture
-- Architectural Styles
-    - Data-Centered Style / Repository Model
-    - Client-Server Style
-    - Layered Style
-    - MVC Style
-    - Data Flow Style / Pipe and Filter
-- Relationships Between Classes
-    - Association
-    - Generalization
-    - Aggregation
-    - Composition
-    - Dependency
-    - Realization
-    - Single Responsibility Principle
-    - Open-Closed Principle
-    - Liskov Substitution Principle
-    - Dependency Inversion Principle
-    - Interface Segregation Principle
+### Design Principles
+- **Divide and Conquer**: Breaking complex problems into smaller, manageable parts
+- **Abstraction**: Focusing on essential features while hiding implementation details
+- **Encapsulation**: Bundling data and methods, hiding internal implementation
+- **Information Hiding**: Controlling access to object internals
+- **Inheritance**: Reusing and extending existing classes
+- **Polymorphism**: Supporting multiple forms through overloading and overriding
+
+### Modularity
+- **Module Characteristics**: Independent functionality, unique names, callable by other modules
+- **Coupling**: Degree of interdependence between modules (should be loose)
+- **Cohesion**: Degree of relatedness within a module (should be strong)
+
+### Coupling Types (Loose to Tight)
+- Data coupling
+- Stamp coupling
+- Control coupling
+- Common coupling
+- Content coupling
+
+### Cohesion Types (Strong to Weak)
+- Functional cohesion
+- Sequential cohesion
+- Communicational cohesion
+- Procedural cohesion
+- Temporal cohesion
+- Logical cohesion
+- Coincidental cohesion
+
+### User Interface Design
+- **Interface Types**: CUI, CLI, GUI, NUI
+- **Design Principles**: Easy to learn, convenient to use, consistent, efficient, error handling
+
+### Architecture Design
+- **Purpose**: Creating software framework and structure
+- **Quality Attributes**: Availability, modifiability, performance, security, usability, testability
+- **Architecture Styles**:
+  - Repository model
+  - Client-server style
+  - Layered style
+  - MVC (Model-View-Controller)
+  - Pipe and filter
+
+### Class Design
+- **Class Relationships**: Association, generalization, aggregation, composition, dependency, realization
+- **SOLID Principles**:
+  - Single Responsibility Principle (SRP)
+  - Open-Closed Principle (OCP)
+  - Liskov Substitution Principle (LSP)
+  - Dependency Inversion Principle (DIP)
+  - Interface Segregation Principle (ISP)
+
 
 ## 7. Design Patterns
-- Design Patterns
-    - Efficiency Through Use of Past Cases and Experience
-- Behavioral Patterns
-    - Strategy Pattern
-    - State Pattern
-- Structural Patterns
-    - Decorator Pattern
-    - Adapter Pattern
-- Creational Patterns
-    - Factory Method
-    - Singleton Pattern
+
+### Pattern Categories
+- **Behavioral Patterns**: Strategy, State, Template Method, Observer, etc.
+- **Structural Patterns**: Decorator, Adapter, Composite, Facade, etc.
+- **Creational Patterns**: Factory Method, Singleton, Prototype, Builder, etc.
+
+### Key Design Patterns
+- **Strategy Pattern**: Encapsulating algorithms and making them interchangeable
+- **State Pattern**: Changing object behavior based on internal state
+- **Decorator Pattern**: Adding responsibilities to objects dynamically
+- **Adapter Pattern**: Converting interface to make incompatible classes work together
+- **Factory Method Pattern**: Creating objects without specifying exact classes
+- **Singleton Pattern**: Ensuring only one instance of a class exists
+
 
 ## 8. Implementation
 - Necessity of Standard Coding Rules
@@ -231,6 +270,7 @@ Visual representation of system interactions, structure, and component relations
     - Constants
     - Expressions
     - Statements
+
 
 ## 9. Testing
 - Testing
@@ -263,6 +303,7 @@ Visual representation of system interactions, structure, and component relations
 - Classification of Tests
     - Tests by Software Development Phase
 
+
 ## 10. Quality
 - Quality
 - Quality by Perspective
@@ -276,6 +317,7 @@ Visual representation of system interactions, structure, and component relations
     - CMMI (Capability Maturity Model Integration)
     - SPICE (Software Process Improvement and Capability dEtermination)
 - Quality Management
+
 
 ## 11. Project Management
 - Project
