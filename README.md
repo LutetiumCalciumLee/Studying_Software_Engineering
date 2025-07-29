@@ -261,15 +261,14 @@ Visual representation of system interactions, structure, and component relations
 
 
 ## 8. Implementation
-- Necessity of Standard Coding Rules
-- Main Standard Coding Rules
-    - Naming
-    - Source
-    - Comments
-    - Variable Declaration and Data Types
-    - Constants
-    - Expressions
-    - Statements
+
+### Standard Coding Rules
+- **Purpose**: Improving readability, maintainability, and development efficiency
+- **Naming Conventions**: 31 characters maximum, meaningful names, consistent rules
+- **Code Structure**: 200 lines per file, 80 characters per line, proper indentation
+- **Comments**: Code information, method descriptions, clear distinction from code
+- **Variable Declaration**: Proper initialization, appropriate data types
+- **Control Structures**: Proper use of switch, for, if-else statements
 
 
 ## 9. Testing
