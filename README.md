@@ -338,8 +338,27 @@ Visual representation of system interactions, structure, and component relations
 
 
 ## 11. Project Management
-- Project
-- Project Management
-- Example of Configuration Management
-- Configuration Management
-- Maintenance
+
+### Project Characteristics
+- **Temporary**: Defined time period
+- **Unique**: Unique deliverables
+- **Temporary participation**: Temporary team assignment
+- **Limited resources**: Constrained budget, time, personnel
+
+### PMBOK Process Groups
+1. **Initiating**: Project definition and authorization
+2. **Planning**: Scope, schedule, cost, risk planning
+3. **Executing**: Project plan implementation
+4. **Monitoring & Controlling**: Performance monitoring and control
+5. **Closing**: Project completion and evaluation
+
+### Configuration Management
+- **Purpose**: Systematic management of software configuration changes
+- **Process**: Configuration identification → Configuration control → Configuration status accounting → Configuration audit
+- **Roles**: Configuration manager, Configuration Control Board (CCB)
+
+### Maintenance Types
+- **Corrective Maintenance**: Error correction
+- **Adaptive Maintenance**: Environmental changes adaptation
+- **Perfective Maintenance**: Performance improvements and new features
+- **Preventive Maintenance**: Preventing anticipated errors
