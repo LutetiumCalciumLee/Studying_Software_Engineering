@@ -304,18 +304,37 @@ Visual representation of system interactions, structure, and component relations
 
 
 ## 10. Quality
-- Quality
-- Quality by Perspective
-- Quality Objectives
-- Quality Factors
-    - McCall’s Quality Factors
-- Quality Evaluation Standard Model
-- Product Quality Attribute Evaluation Model
-- Process Quality Attribute Evaluation Model
-- Representative Process Capability Evaluation Models
-    - CMMI (Capability Maturity Model Integration)
-    - SPICE (Software Process Improvement and Capability dEtermination)
-- Quality Management
+
+### Quality Perspectives
+- **User Perspective**: Easy to use, various functions, fast performance
+- **Developer Perspective**: Follows coding standards, easy to develop and modify
+- **Manager Perspective**: Completed within budget and schedule
+- **Maintainer Perspective**: High readability, easy to understand
+
+### Quality Models
+- **McCall's Quality Model**: 11 quality factors
+  - Product operation: Correctness, efficiency, integrity
+  - Product revision: Maintainability, flexibility, testability
+  - Product transition: Interoperability, reusability, portability
+
+- **ISO/IEC 9126**: 6 quality characteristics
+  - Functionality, reliability, usability, efficiency, maintainability, portability
+
+### Quality Standards
+- **ISO/IEC 14598**: Software product evaluation
+- **ISO/IEC 12119**: Package software quality requirements
+- **ISO/IEC 25000 (SQuaRE)**: Integrated quality evaluation standard
+
+### Process Quality Models
+- **ISO 9000**: Quality management systems
+- **ISO 12207**: Software lifecycle processes
+- **CMMI**: Capability Maturity Model Integration
+  - 5 maturity levels: Initial, Managed, Defined, Quantitatively Managed, Optimizing
+- **SPICE (ISO 15504)**: Software process improvement and capability determination
+
+### Quality Management
+- **Quality Control**: Defining processes and standards for developers to follow
+- **Quality Assurance**: Systematic activities to ensure quality throughout development
 
 
 ## 11. Project Management
