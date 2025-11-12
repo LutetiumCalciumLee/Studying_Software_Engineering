@@ -1,5 +1,6 @@
 <details>
 <summary>ENG (English Version)</summary>
+  
 ## 4. Planning
 
 ### Project Planning
@@ -26,6 +27,7 @@
 
 <details>
 <summary>KOR (한국어 버전)</summary>
+  
 ## 4. 계획
 
 ### 프로젝트 계획
