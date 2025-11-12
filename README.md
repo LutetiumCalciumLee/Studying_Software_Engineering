@@ -19,7 +19,7 @@
 - **SDLC**: The Software Development Life Cycle structures this process.
 
 ### Software Development Process
-A series of activities to transform user requirements into a software system, involving procedures, methods, tools, and developers.[1][4]
+A series of activities to transform user requirements into a software system, involving procedures, methods, tools, and developers.
 
 ## 2. Software Development Models
 
@@ -29,7 +29,7 @@ A series of activities to transform user requirements into a software system, in
 - **Disadvantages**: Lacks documentation, making maintenance difficult.
 
 ### Linear Sequential Model (Waterfall)
-- **Description**: A sequential, top-down development process.[3]
+- **Description**: A sequential, top-down development process.
 - **Procedure**: Planning → Analysis → Design → Implementation → Testing → Maintenance.
 - **Advantages**: Easy to manage with clear documentation.
 - **Disadvantages**: Inflexible, as requirements must be stable and are hard to verify until the end.
@@ -219,7 +219,7 @@ Visual tools to represent system interactions, structure, and relationships.
 - **SDLC**: 소프트웨어 개발 생명 주기 (Software Development Life Cycle).
 
 ### 소프트웨어 개발 프로세스
-사용자 요구사항을 소프트웨어 시스템으로 구현하기 위한 일련의 활동으로, 절차, 방법, 도구, 개발자를 포함함.[4][1]
+사용자 요구사항을 소프트웨어 시스템으로 구현하기 위한 일련의 활동으로, 절차, 방법, 도구, 개발자를 포함함.
 
 ## 2. 소프트웨어 개발 모델
 
@@ -229,7 +229,7 @@ Visual tools to represent system interactions, structure, and relationships.
 - **단점**: 문서화된 산출물이 없어 유지보수가 어려움.
 
 ### 선형 순차 모델 (폭포수 모델)
-- **설명**: 표준화된 절차를 순차적으로 따르는 개발 방식.[3]
+- **설명**: 표준화된 절차를 순차적으로 따르는 개발 방식.
 - **절차**: 계획 → 분석 → 설계 → 구현 → 테스트 → 유지보수.
 - **장점**: 관리가 용이하고 문서가 체계적임.
 - **단점**: 요구사항이 안정적이어야 하고, 최종 단계까지 요구사항 검증이 어려움.
