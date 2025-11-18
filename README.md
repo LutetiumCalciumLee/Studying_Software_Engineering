@@ -17,7 +17,7 @@
 - **SDLC**: The Software Development Life Cycle structures this process.
 
 ### Software Development Process
-A series of activities to transform user requirements into a software system, involving procedures, methods, tools, and developers.[1][4]
+A series of activities to transform user requirements into a software system, involving procedures, methods, tools, and developers.
 
 </details>
 
@@ -40,7 +40,7 @@ A series of activities to transform user requirements into a software system, in
 - **SDLC**: 소프트웨어 개발 생명 주기 (Software Development Life Cycle).
 
 ### 소프트웨어 개발 프로세스
-사용자 요구사항을 소프트웨어 시스템으로 구현하기 위한 일련의 활동으로, 절차, 방법, 도구, 개발자를 포함함.[4][1]
+사용자 요구사항을 소프트웨어 시스템으로 구현하기 위한 일련의 활동으로, 절차, 방법, 도구, 개발자를 포함함.
 
 </details>
 
