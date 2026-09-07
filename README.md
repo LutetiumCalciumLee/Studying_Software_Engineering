@@ -2,106 +2,107 @@
 <summary>ENG (English Version)</summary>
 
 # Software Engineering
+This repository contains my notes and code from studying Software Engineering as part of the AI Software High-Tech Program.
 
-## 1. Development Process
+## [1. Development Process](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.01)
 
-### Program vs. Software Definition
+- Program vs. Software Definition
 
-### Software vs. Manufacturing
+- Software vs. Manufacturing
 
-### Software Development Complexity
+- Software Development Complexity
 
-### Software Development Process
-
-
-## 2. Software Development Models
-
-### Build-and-Fix Model
-
-### Linear Sequential Model (Waterfall)
-
-### Evolutionary Process Model
-
-### Phased Development Model
-
-### Unified Process Model
-
-### Agile Process Model
-
-### Scrum Framework
+- Software Development Process
 
 
-## 3. UML (Unified Modeling Language)
+## [2. Software Development Models](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.02)
 
-### UML Diagrams
+- Build-and-Fix Model
 
+- Linear Sequential Model (Waterfall)
 
-## 4. Planning
+- Evolutionary Process Model
 
-### Project Planning
+- Phased Development Model
 
-### Feasibility Analysis
+- Unified Process Model
 
-### Cost Estimation
+- Agile Process Model
 
-### Schedule Planning
-
-### Risk Analysis
-
-
-## 5. Requirements Analysis
-
-### Requirements Definition
-
-### Requirements Analysis Process
-
-### Requirements Documentation
+- Scrum Framework
 
 
-## 6. Architecture and Class Design
+## [3. UML (Unified Modeling Language)](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.03)
 
-### Design Principles
-
-### Modularity
-
-### Architecture Design
-
-### Class Design
+- UML Diagrams
 
 
-## 7. Design Patterns
+## [4. Planning](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.04)
 
-### Categories
+- Project Planning
 
+- Feasibility Analysis
 
-## 8. Implementation
+- Cost Estimation
 
-### Standard Coding Rules
+- Schedule Planning
 
-
-## 9. Testing
-
-### Testing Basics
-
-### Testing Techniques
+- Risk Analysis
 
 
-## 10. Quality
+## [5. Requirements Analysis](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.05)
 
-### Quality Perspectives
+- Requirements Definition
 
-### Quality Models & Standards
+- Requirements Analysis Process
+
+- Requirements Documentation
 
 
-## 11. Project Management
+## [6. Architecture and Class Design](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.06)
 
-### Project Characteristics
+- Design Principles
 
-### PMBOK Process Groups
+- Modularity
 
-### Configuration Management
+- Architecture Design
 
-### Maintenance Types
+- Class Design
+
+
+## [7. Design Patterns](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.07)
+
+- Categories
+
+
+## [8. Implementation](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.08)
+
+- Standard Coding Rules
+
+
+## [9. Testing](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.09)
+
+- Testing Basics
+
+- Testing Techniques
+
+
+## [10. Quality](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.10)
+
+- Quality Perspectives
+
+- Quality Models & Standards
+
+
+## [11. Project Management](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.11)
+
+- Project Characteristics
+
+- PMBOK Process Groups
+
+- Configuration Management
+
+- Maintenance Types
 
 </details>
 
@@ -109,106 +110,107 @@
 <summary>KOR (한국어 버전)</summary>
 
 # 소프트웨어 공학
+이 Repository에는 인공지능소프트웨어과 하이테크 과정에서 학습한 소프트웨어 공학 내용과 코드를 정리하여 업로드했습니다.
 
-## 1. 개발 프로세스
+## [1. 개발 프로세스](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.01)
 
-### 프로그램 vs 소프트웨어 정의
+- 프로그램 vs 소프트웨어 정의
 
-### 소프트웨어 vs 제조업
+- 소프트웨어 vs 제조업
 
-### 소프트웨어 개발의 복잡성
+- 소프트웨어 개발의 복잡성
 
-### 소프트웨어 개발 프로세스
-
-
-## 2. 소프트웨어 개발 모델
-
-### 주먹구구식 모델 (Build-and-Fix)
-
-### 선형 순차 모델 (폭포수 모델)
-
-### 진화적 프로세스 모델
-
-### 단계적 개발 모델
-
-### 통합 프로세스 모델
-
-### 애자일 프로세스 모델
-
-### 스크럼 프레임워크
+- 소프트웨어 개발 프로세스
 
 
-## 3. UML (통합 모델링 언어)
+## [2. 소프트웨어 개발 모델](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.02)
 
-### UML 다이어그램
+- 주먹구구식 모델 (Build-and-Fix)
 
+- 선형 순차 모델 (폭포수 모델)
 
-## 4. 계획
+- 진화적 프로세스 모델
 
-### 프로젝트 계획
+- 단계적 개발 모델
 
-### 타당성 분석
+- 통합 프로세스 모델
 
-### 비용 산정
+- 애자일 프로세스 모델
 
-### 일정 계획
-
-### 위험 분석
-
-
-## 5. 요구사항 분석
-
-### 요구사항 정의
-
-### 요구사항 분석 프로세스
-
-### 요구사항 문서화
+- 스크럼 프레임워크
 
 
-## 6. 아키텍처 및 클래스 설계
+## [3. UML (통합 모델링 언어)](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.03)
 
-### 설계 원칙
-
-### 모듈화
-
-### 아키텍처 설계
-
-### 클래스 설계
+- UML 다이어그램
 
 
-## 7. 디자인 패턴
+## [4. 계획](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.04)
 
-### 패턴 분류
+- 프로젝트 계획
 
+- 타당성 분석
 
-## 8. 구현
+- 비용 산정
 
-### 표준 코딩 규칙
+- 일정 계획
 
-
-## 9. 테스팅
-
-### 테스팅 기초
-
-### 테스팅 기법
+- 위험 분석
 
 
-## 10. 품질
+## [5. 요구사항 분석](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.05)
 
-### 품질 관점
+- 요구사항 정의
 
-### 품질 모델 및 표준
+- 요구사항 분석 프로세스
+
+- 요구사항 문서화
 
 
-## 11. 프로젝트 관리
+## [6. 아키텍처 및 클래스 설계](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.06)
 
-### 프로젝트 특성
+- 설계 원칙
 
-### PMBOK 프로세스 그룹
+- 모듈화
 
-### 형상 관리
+- 아키텍처 설계
 
-### 유지보수 유형
+- 클래스 설계
+
+
+## [7. 디자인 패턴](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.07)
+
+- 패턴 분류
+
+
+## [8. 구현](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.08)
+
+- 표준 코딩 규칙
+
+
+## [9. 테스팅](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.09)
+
+- 테스팅 기초
+
+- 테스팅 기법
+
+
+## [10. 품질](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.10)
+
+- 품질 관점
+
+- 품질 모델 및 표준
+
+
+## [11. 프로젝트 관리](https://github.com/LutetiumCalciumLee/Studying_Software_Engineering/tree/Ch.11)
+
+- 프로젝트 특성
+
+- PMBOK 프로세스 그룹
+
+- 형상 관리
+
+- 유지보수 유형
 
 </details>
 
