@@ -43,7 +43,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## 2. 소프트웨어 개발 모델
