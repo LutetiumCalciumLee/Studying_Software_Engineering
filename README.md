@@ -16,7 +16,7 @@
 
 </details>
 
-<details ope>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## 9. 테스팅
