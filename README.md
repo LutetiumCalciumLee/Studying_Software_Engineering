@@ -17,7 +17,7 @@ Visual tools to represent system interactions, structure, and relationships.
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## 3. UML (통합 모델링 언어)
