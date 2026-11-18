@@ -10,7 +10,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## 7. 디자인 패턴
