@@ -21,7 +21,7 @@ A series of activities to transform user requirements into a software system, in
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## 1. 개발 프로세스
