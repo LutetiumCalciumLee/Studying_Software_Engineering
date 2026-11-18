@@ -25,7 +25,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## 11. 프로젝트 관리
