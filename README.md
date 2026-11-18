@@ -27,7 +27,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>KOR (한국어 버전)</summary>
 
 ## 6. 아키텍처 및 클래스 설계
